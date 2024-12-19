@@ -1,0 +1,5 @@
+flavors:
+  keras:
+    data: model.h5
+    keras_version: 2.6.0
+    python_version: 3.8.10
